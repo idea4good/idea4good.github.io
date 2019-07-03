@@ -1,4 +1,3 @@
-# GuiLite
 ## Sponsorship
 - Thanks for your generosity 🙏
 - All donations will be used to help sick kids ❤️
@@ -12,9 +11,9 @@
 - We give to sick kids
 - Each give was replied with "Donated from GuiLite Dev" for easy searching
 
-## How to work
+### How to work
 ![WorkFlow](charity/CharityWorkFlow.png)
-## Tracker list
+### Track list
 | Date Given | Amount | Recipient Organization | Kid's name | Reason |
 | --- | --- | --- | --- | --- |
 | 2019-6-24 | ￥20 | China Charities Aid Foundation for Children | Yan Wang | [Blood cancer](https://yglian.qschou.com/gongyi/publicSite/detail?ChannelId=zhech&id=201905230000000050026157&mp=toutiao20190624) |
@@ -28,9 +27,9 @@
 - 我们救助“大病”儿童
 - 每条救助下面都有回复：“GuiLite开发者捐助”,以便查询
 
-## 救助流程
+### 救助流程
 ![WorkFlow](charity/CharityWorkFlow.png)
-## 救助记录
+### 救助记录
 | 救助日期 | 金额 | 收款机构 | 受助者姓名 | 受助原因 |
 | --- | --- | --- | --- | --- |
 | 2019-6-24 | ￥20 | 中华少年儿童慈善救助基金会 | 王研 | [血癌](https://yglian.qschou.com/gongyi/publicSite/detail?ChannelId=zhech&id=201905230000000050026157&mp=toutiao20190624) |
