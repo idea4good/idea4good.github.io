@@ -2,9 +2,9 @@
 - Thanks for your generosity 🙏
 - All donations will be used to help sick kids ❤️
 
-| Channel | Paypal | Gitee | Wechat |
+| Channel | Paypal | Gitee | Alipay | Wechat |
 | --- | --- | --- | --- | --- |
-| Link/QR | [<img src="sponsor/paypal.png">](https://www.paypal.me/idea4good) | [<img src="sponsor/gitee.png">](https://gitee.com/idea4good/GuiLite) | ![wechat](sponsor/wechat.jpg) |
+| Link/QR | [<img src="sponsor/paypal.png">](https://www.paypal.me/idea4good) | [<img src="sponsor/gitee.png">](https://gitee.com/idea4good/GuiLite) | ![Alipay](sponsor/alipay.png) | ![wechat](sponsor/wechat.jpg) |
 
 ## Charity - Help kids
 [中文](#救助大病儿童)
